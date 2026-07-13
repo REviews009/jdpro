@@ -1,25 +1,5 @@
 
-## 6dy
-
 声明: 此库所有内容仅用于个人学习！！！
-
-### [TG CHANEL](https://t.me/dylan_jdpro)
-
-
-国内机（带加速，也不太稳）：
-
-```
-ql repo https://js.googo.win/https://github.com/6dylan6/jdpro.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify|utils"
-
-```
-
-
-国外机（国外ip有限制可能有些任务不能正常运行）：
-
-```
-ql repo https://github.com/6dylan6/jdpro.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify|utils"
-
-```
 
 
 
